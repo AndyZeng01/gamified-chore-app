@@ -101,7 +101,14 @@ function Play() {
                 Lower ({'<'})
               </button>
             </span>
-            
+          </div>
+          <br></br>
+          <br></br>
+          <div style={{fontSize: '20px', marginBottom: '20px'}}>
+            <div>How to play:</div>  
+            <div>Refering to the current sum above, determine if the next sum will be higher or lower</div>  
+            <div>Correct Guess: 1+ point</div>
+            <div>Incorrect Guess: GAME OVER</div>  
           </div>
         </div>
       )}
